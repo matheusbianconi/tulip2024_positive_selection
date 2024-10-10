@@ -4,7 +4,7 @@ TULIP 1st Year of International Master of Functional Biology & Ecology
 
 ## Practical: detecting positive selection using codeml (PAML)  
 In this practical we use a modified version of the dataset of Christin et al. (2007) to test for the occurrence of positive selection in a gene related to C4 photosynthesis in grasses.  
-<b>Christin PA, Salamin N, Savolainen V, Duvall MR, Besnard G</b>. 2007. C4 Photosynthesis Evolved in Grasses via Parallel Adaptive Genetic Changes. Current Biology 17: 1241–1247. (https://doi.org/10.1016/j.cub.2007.06.036)  
+Christin PA, Salamin N, Savolainen V, Duvall MR, Besnard G. 2007. C4 Photosynthesis Evolved in Grasses via Parallel Adaptive Genetic Changes. Current Biology 17: 1241–1247. (https://doi.org/10.1016/j.cub.2007.06.036)  
 
   
 Material:  
@@ -23,15 +23,15 @@ The current version of the program is described in this paper:
 <b>Yang Z</b>. 2007. PAML 4: Phylogenetic Analysis by Maximum Likelihood, Molecular Biology and Evolution, 24:1586–1591, https://doi.org/10.1093/molbev/msm088
 
   
-The program codeml is not the most user friendly, and there is a learning curve for you to get familiar with it. There are some tutorials available online, and there is one paper recently published by Yang's group that can be particularly useful:  
+The program codeml is not the most user-friendly, and there is a learning curve for you to get familiar with it. There are some tutorials available online, and there is one paper recently published by Yang's group that can be particularly useful:  
 <b>Álvarez-Carretero S, Kapli P, Yang Z</b>. 2023. Beginner’s Guide on the Use of PAML to Detect Positive Selection. Mol. Biol. Evol. 40(4):msad041 (https://doi.org/10.1093/molbev/msad041)  
 
   
 Some key references:  
-- <b>Goldman N, Yang Z</b>. 1994. A codon-based model of nucleotide substitution for protein-coding DNA sequences. Molecular Biology and Evolution 11: 725–736.  
-- <b>Yang Z, Bielawski JP</b>. 2000. Statistical methods for detecting molecular adaptation. Trends in Ecology & Evolution 15: 496–503.  
-- <b>Yang Z, Nielsen R</b>. 2002. Codon-Substitution Models for Detecting Molecular Adaptation at Individual Sites Along Specific Lineages. Molecular Biology and Evolution 19: 908–917.
-- <b>Yang Z, Wong WSW, Nielsen R</b>. 2005. Bayes Empirical Bayes Inference of Amino Acid Sites Under Positive Selection. Molecular Biology and Evolution 22: 1107–1118.
-- <b>Yang, Ziheng</b>. Molecular Evolution: A Statistical Approach (Oxford, 2014; online edn, Oxford Academic, 21 Aug. 2014).
+- Goldman N, Yang Z. 1994. A codon-based model of nucleotide substitution for protein-coding DNA sequences. Molecular Biology and Evolution 11: 725–736.  
+- Yang Z, Bielawski JP. 2000. Statistical methods for detecting molecular adaptation. Trends in Ecology & Evolution 15: 496–503.  
+- Yang Z, Nielsen R. 2002. Codon-Substitution Models for Detecting Molecular Adaptation at Individual Sites Along Specific Lineages. Molecular Biology and Evolution 19: 908–917.
+- Yang Z, Wong WSW, Nielsen R. 2005. Bayes Empirical Bayes Inference of Amino Acid Sites Under Positive Selection. Molecular Biology and Evolution 22: 1107–1118.
+- Yang, Ziheng. Molecular Evolution: A Statistical Approach (Oxford, 2014; online edn, Oxford Academic, 21 Aug. 2014).
 
 Contact: `matheus-enrique.bianconi at univ-tlse3.fr`
