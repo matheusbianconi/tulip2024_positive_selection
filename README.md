@@ -4,7 +4,8 @@ TULIP 1st Year of International Master of Functional Biology & Ecology
 
 ## Practical: detecting positive selection using codeml (PAML)  
 In this practical we use a modified version of the dataset of Christin et al. (2007) to test for the occurrence of positive selection in a gene related to C4 photosynthesis in grasses.  
-Christin PA, Salamin N, Savolainen V, Duvall MR, Besnard G. 2007. C4 Photosynthesis Evolved in Grasses via Parallel Adaptive Genetic Changes. Current Biology 17: 1241–1247. (https://doi.org/10.1016/j.cub.2007.06.036)  
+  
+<b>Christin PA, Salamin N, Savolainen V, Duvall MR, Besnard G</b>. 2007. C4 Photosynthesis Evolved in Grasses via Parallel Adaptive Genetic Changes. Current Biology 17: 1241–1247. (https://doi.org/10.1016/j.cub.2007.06.036)  
 
   
 Material:  
@@ -16,14 +17,18 @@ Material:
 - Results: `results/`
 - Lecture slides: `lecture_comparative_genomics.pdf`
 
+-----------------------------------------------------------------------------------------------------  
+  
 The program <b>codeml</b> is part of a suite of programs named <b>PAML</b> and was developed by Prof. Ziheng Yang (University College London).   
 You can download PAML at https://github.com/abacus-gene/paml or http://abacus.gene.ucl.ac.uk/software/paml.html  
   
 The current version of the program is described in this paper:  
+  
 <b>Yang Z</b>. 2007. PAML 4: Phylogenetic Analysis by Maximum Likelihood, Molecular Biology and Evolution, 24:1586–1591, https://doi.org/10.1093/molbev/msm088
 
   
 The program codeml is not the most user-friendly, and there is a learning curve for you to get familiar with it. There are some tutorials available online, and there is one paper recently published by Yang's group that can be particularly useful:  
+  
 <b>Álvarez-Carretero S, Kapli P, Yang Z</b>. 2023. Beginner’s Guide on the Use of PAML to Detect Positive Selection. Mol. Biol. Evol. 40(4):msad041 (https://doi.org/10.1093/molbev/msad041)  
 
   
