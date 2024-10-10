@@ -6,7 +6,7 @@
 In this practical we use a modified version of the dataset of Christin et al. (2007) to test for the occurrence of positive selection in a gene related to C4 photosynthesis in grasses.  
 
 The paper:  
-- <b>Christin PA, Salamin N, Savolainen V, Duvall MR, Besnard G</b>. 2007. C4 Photosynthesis Evolved in Grasses via Parallel Adaptive Genetic Changes. Current Biology 17: 1241–1247. (https://doi.org/10.1016/j.cub.2007.06.036)  
+- <b>Christin P-A, Salamin N, Savolainen V, Duvall MR, Besnard G</b>. 2007. C4 Photosynthesis Evolved in Grasses via Parallel Adaptive Genetic Changes. Current Biology 17: 1241–1247. (https://doi.org/10.1016/j.cub.2007.06.036)  
 
   
 Material:  
