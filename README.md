@@ -27,13 +27,11 @@ The program codeml is not the most user friendly, and there is a learning curve 
 <b>Álvarez-Carretero S, Kapli P, Yang Z</b>. 2023. Beginner’s Guide on the Use of PAML to Detect Positive Selection. Mol. Biol. Evol. 40(4):msad041 (https://doi.org/10.1093/molbev/msad041)  
 
   
-Key references:  
+Some key references:  
 - <b>Goldman N, Yang Z</b>. 1994. A codon-based model of nucleotide substitution for protein-coding DNA sequences. Molecular Biology and Evolution 11: 725–736.  
 - <b>Yang Z, Bielawski JP</b>. 2000. Statistical methods for detecting molecular adaptation. Trends in Ecology & Evolution 15: 496–503.  
 - <b>Yang Z, Nielsen R</b>. 2002. Codon-Substitution Models for Detecting Molecular Adaptation at Individual Sites Along Specific Lineages. Molecular Biology and Evolution 19: 908–917.
 - <b>Yang Z, Wong WSW, Nielsen R</b>. 2005. Bayes Empirical Bayes Inference of Amino Acid Sites Under Positive Selection. Molecular Biology and Evolution 22: 1107–1118.
-- <b>Nielsen R</b>. 2005. Molecular Signatures of Natural Selection. Annual Review of Genetics 39: 197–218.  
-- <b>Yang, Ziheng</b>. Molecular Evolution: A Statistical Approach (Oxford, 2014; online edn, Oxford Academic, 21 Aug. 2014), https://doi.org/10.1093/acprof:oso/9780199602605.001.0001
-
+- <b>Yang, Ziheng</b>. Molecular Evolution: A Statistical Approach (Oxford, 2014; online edn, Oxford Academic, 21 Aug. 2014).
 
 Contact: `matheus-enrique.bianconi at univ-tlse3.fr`
