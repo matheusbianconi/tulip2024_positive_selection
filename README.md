@@ -25,11 +25,11 @@ You can download PAML at https://github.com/abacus-gene/paml or http://abacus.ge
   
 The current version of the program is described in this paper:  
   
-- <b>Yang Z</b>. 2007. PAML 4: Phylogenetic Analysis by Maximum Likelihood, Molecular Biology and Evolution, 24:1586–1591, https://doi.org/10.1093/molbev/msm088
+- <b>Yang Z</b>. 2007. PAML 4: Phylogenetic Analysis by Maximum Likelihood, Molecular Biology and Evolution, 24:1586–1591 (https://doi.org/10.1093/molbev/msm088)  
   
 The program codeml is not the most user-friendly, and there is a learning curve for you to get familiar with it. There are some tutorials available online, and there is one paper recently published by Yang's group that can be particularly useful:  
   
-- <b>Álvarez-Carretero S, Kapli P, Yang Z</b>. 2023. Beginner’s Guide on the Use of PAML to Detect Positive Selection. Mol. Biol. Evol. 40(4):msad041 (https://doi.org/10.1093/molbev/msad041)  
+- <b>Álvarez-Carretero S, Kapli P, Yang Z</b>. 2023. Beginner’s Guide on the Use of PAML to Detect Positive Selection. Molecular Biology and Evolution 40(4):msad041 (https://doi.org/10.1093/molbev/msad041)  
 
   
 Some key references:  
