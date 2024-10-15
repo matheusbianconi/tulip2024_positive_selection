@@ -13,7 +13,7 @@ Material:
 - Phylogenetic tree: `data/species_tree.nwk`
 - Protein alignment: `data/alignment_protein.fasta`
 - Codon alignment: `data/alignment_codons.fasta`
-- Metadata: `metadata.csv`
+- Metadata: `metadata.tsv`
 - Codeml parameter files: `parameter_files/`
 - Results: `results/`
 - Lecture slides: `lecture_comparative_genomics.pdf`
