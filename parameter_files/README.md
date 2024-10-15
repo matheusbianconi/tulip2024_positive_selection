@@ -1,4 +1,4 @@
-# Codeml parameter files ('control files')  
+# Codeml parameter files (control files)  
 
 Codeml requires the user to predefine the model and the set of parameters to be used for analysis. This is done using the codeml 'control files', which are plain text files with all parameter values that can be used by the program.  
 
