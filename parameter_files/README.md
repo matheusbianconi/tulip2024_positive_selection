@@ -24,5 +24,3 @@ Assumes four site classes (0, 1, 2a, 2b), with different w (dN/dS) for foregroun
   
 =====================================================
   
-Note that the first 3 lines in each file contain the location of the files (alignment, tree and output). Remember to change this to the correct path to the file when running your own analyses! 
-
