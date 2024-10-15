@@ -14,7 +14,7 @@ Material:
 - Protein alignment: `data/alignment_protein.fasta`
 - Codon alignment: `data/alignment_codons.fasta`
 - Metadata: `metadata.csv`
-- Codeml control files (null and alternative models): `codeml_files/`
+- Codeml parameter files: `parameter_files/`
 - Results: `results/`
 - Lecture slides: `lecture_comparative_genomics.pdf`
 
