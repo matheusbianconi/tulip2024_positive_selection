@@ -2,7 +2,7 @@
 ** TULIP 1st Year of International Master of Functional Biology & Ecology  **  
 16 October 2024 - LRSV/LIPME, Toulouse  
 
-## Practical: detecting positive selection using codeml (PAML)  
+## Exercise: detecting positive selection using codeml (PAML)  
 In this practical we use a modified version of the dataset of Christin et al. (2007) to test for the occurrence of positive selection in a gene related to C4 photosynthesis in grasses.  
 
 The paper:  
