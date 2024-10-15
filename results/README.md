@@ -13,7 +13,7 @@ Here you will find the results of the four analyses performed in this practical:
 The log-likelihood values can be found in the line of codeml's output that looks like this:  
 `lnL(ntime: 76  np: 84): -12994.043582      +0.000000  `
 
-In this example, the log-likelihood (lnL) is **-12994.043582** and the number of parameters estimated by the analysis (**np**) is 84.  
+In this example, the log-likelihood (lnL) is **-12994.043582** and the number of parameters estimated in the analysis (**np**) is 84.  
 
 ### Model comparisons  
 
