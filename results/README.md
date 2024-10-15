@@ -31,3 +31,33 @@ Only models that are nested can be compared using LRT. In this exercise, the com
 1) M1a vs M0 (k = 1) 
 2) A1 vs A0 (k = 1)
 
+### dN/dS estimates  
+To extract the estimates of dN/dS, look for these lines in the results file:
+
+- **Model M0:**  
+`omega (dN/dS) =  0.10327`
+
+- **Model M1a:**   
+`MLEs of dN/dS (w) for site classes (K=2)`  
+`p:   0.76579  0.23421`  
+`w:   0.04254  1.00000`  
+ 
+  Here, p = proportion sites in that site class. There are two site classes in this model, one under purifying selection (dN/dS on the left), and one under neutral evolution (dN/dS on the right). In this example, 76.6% of the sites are evolving under purifying selection with dN/dS = 0.04, and 23.4% of the sites are evolving neutrally (dN/dS = 1).  
+
+- **Model A0:**  
+`MLEs of dN/dS (w) for site classes (K=4)`  
+`site class             0        1       2a       2b`  
+`proportion       0.76644  0.10190  0.11621  0.01545`  
+`background w     0.05305  1.00000  0.05305  1.00000`  
+`foreground w     0.05305  1.00000  1.00000  1.00000`
+
+  Here, there are four site classes (0, 1, 2a and 2b), and two types of branches (foreground and background). Note that classes 2a and 2b in the foreground branches are fixed = 1 in this model.
+
+- **Model A1**  
+`MLEs of dN/dS (w) for site classes (K=4)`  
+`site class             0        1       2a       2b`  
+`proportion       0.77456  0.09330  0.11794  0.01421`  
+`background w     0.05763  1.00000  0.05763  1.00000`  
+`foreground w     0.05763  1.00000  2.56272  2.56272`  
+
+  Same as above, with the difference that in site classes 2a and 2b, the ratio dN/dS is allowed to be > 1 in the foreground branches, which happened to be the case in this analysis.  
