@@ -11,8 +11,8 @@ The paper:
   
 Material:  
 - Phylogenetic tree: `data/species_tree.nwk`
-- Protein alignment: `data/protein_alignment.fasta`
-- Codon alignment: `data/codon_alignment.fasta`
+- Protein alignment: `data/alignment_protein.fasta`
+- Codon alignment: `data/alignment_codons.fasta`
 - Metadata: `metadata.csv`
 - Codeml control files (null and alternative models): `codeml_files/`
 - Results: `results/`
